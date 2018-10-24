@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTarget.Android", "Mult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTarget.UWP", "MultiTarget\MultiTarget.UWP\MultiTarget.UWP.csproj", "{055AAEC9-1287-4D4A-8EF4-771E0F3F9083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTarget", "MultiTarget\MultiTarget\MultiTarget.csproj", "{0286A156-13F1-4683-A4A8-BA9302E24DAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiTarget", "MultiTarget\MultiTarget\MultiTarget.csproj", "{0286A156-13F1-4683-A4A8-BA9302E24DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,22 @@ Global
 		{0286A156-13F1-4683-A4A8-BA9302E24DAC}.Release|x86.ActiveCfg = Release|Any CPU
 		{0286A156-13F1-4683-A4A8-BA9302E24DAC}.Release|x86.Build.0 = Release|Any CPU
 		{0286A156-13F1-4683-A4A8-BA9302E24DAC}.Release|x86.Deploy.0 = Release|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Debug|ARM.Build.0 = Debug|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Debug|x64.Build.0 = Debug|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Debug|x86.Build.0 = Debug|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Release|ARM.ActiveCfg = Release|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Release|ARM.Build.0 = Release|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Release|x64.ActiveCfg = Release|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Release|x64.Build.0 = Release|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Release|x86.ActiveCfg = Release|Any CPU
+		{EEEA53E4-58F7-4DCC-BCB9-30EBF683E5B1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
